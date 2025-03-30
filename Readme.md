@@ -123,9 +123,3 @@ Puedes copiar esta carpeta a cualquier PC con Windows y ejecutar la app directam
 ![image](https://github.com/user-attachments/assets/63ad0026-df2e-4959-bb75-f980f1a73f61)
 
 ```
-App Catálogo de Películas
-
-```
-
----
-
