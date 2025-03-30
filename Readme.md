@@ -11,30 +11,29 @@ Incluye un sistema **CRUD completo**, integración de recursos gráficos y empaq
 - 💻 Interfaz creada con `Tkinter`
 - 📂 Base de datos `SQLite` integrada (persistencia local)
 - 📦 Empaquetado como aplicación de escritorio ejecutable (.exe)
-
 ---
-
 ## 📁 Estructura del Proyecto
 
-📁 CATALOGO_PELICULASD
-├── 📁 catalogo_peliculas
-│   ├── 📁 build
-│   ├── 📁 client
+```bash
+CATALOGO_PELICULASD
+├── catalogo_peliculas
+│   ├── build/
+│   ├── client/
 │   │   ├── __init__.py
 │   │   └── gui_app.py
-│   ├── 📁 database
+│   ├── database/
 │   │   └── peliculas.db
-│   ├── 📁 dist
-│   │   └── catalogo_peliculas
-│   ├── 📁 img
+│   ├── dist/
+│   │   └── catalogo_peliculas/
+│   ├── img/
 │   │   └── cp-logo.ico
-│   ├── 📁 model
+│   ├── model/
 │   │   ├── __init__.py
 │   │   ├── conexion_db.py
 │   │   ├── pelicula_dao.py
 │   │   └── catalogo_peliculas.py
 │   └── catalogo_peliculas.spec
-├── 📁 env
+├── env/
 ├── .gitignore
 └── Readme.md
 
@@ -120,12 +119,12 @@ Puedes copiar esta carpeta a cualquier PC con Windows y ejecutar la app directam
 
 ---
 
-## 📄 Captura de la Aplicación
-
+## 📄 App
 
 ```
 App Catálogo de Películas
-[Imagen]
+![image](https://github.com/user-attachments/assets/be72bf24-d555-4400-afcb-65b20fb7db83)
+
 ```
 
 ---
