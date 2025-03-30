@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno virtual
+env/
+.venv/
+venv/
+
+# Archivos creados por PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos temporales del sistema
+*.log
+*.tmp
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Archivos de base de datos
+database/*.db
+/database/*.db
+catalogo_peliculas/database/peliculas.db
+
+# Configuración de IDEs y editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
