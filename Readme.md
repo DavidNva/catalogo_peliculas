@@ -57,7 +57,7 @@ CATALOGO_PELICULASD
 ### 1. Clona el repositorio
 
 ```bash
-git clone <tu_url_del_repo>
+git clone https://github.com/DavidNva/catalogo_peliculas.git
 cd catalogo_peliculas
 ```
 
