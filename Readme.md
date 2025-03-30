@@ -8,7 +8,7 @@ Implementación un **CRUD completo**, interfaz grafica con **TKinter** y empaque
 ```
 
 ## 📁 Estructura del Proyecto
-```bash
+
 CATALOGO_PELICULASD
 ├── catalogo_peliculas
 │   ├── build/
