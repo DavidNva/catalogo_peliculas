@@ -11,7 +11,7 @@ venv/
 # Archivos creados por PyInstaller
 build/
 dist/
-*.spec
+# *.spec
 
 # Archivos temporales del sistema
 *.log
