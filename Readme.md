@@ -1,7 +1,7 @@
 # 🎥 Catálogo de Películas
 
 Aplicación de escritorio desarrollada con **Python**, usando **Tkinter** para la interfaz gráfica y **SQLite** como base de datos local.  
-Incluye un sistema **CRUD completo**, integración de recursos gráficos y empaquetado con **PyInstaller** para su distribución.
+Implementación un **CRUD completo**, interfaz grafica con **TKinter** y empaquetado con **PyInstaller** para su distribución.
 
 ---
 
