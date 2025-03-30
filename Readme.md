@@ -6,17 +6,8 @@ Implementación un **CRUD completo**, interfaz grafica con **TKinter** y empaque
 ![image](https://github.com/user-attachments/assets/63ad0026-df2e-4959-bb75-f980f1a73f61)
 
 ```
----
 
-## 🧩 Funcionalidades
-
-- ✅ Crear, leer, actualizar y eliminar películas
-- 💻 Interfaz creada con `Tkinter`
-- 📂 Base de datos `SQLite` integrada (persistencia local)
-- 📦 Empaquetado como aplicación de escritorio ejecutable (.exe)
----
 ## 📁 Estructura del Proyecto
-
 ```bash
 CATALOGO_PELICULASD
 ├── catalogo_peliculas
@@ -39,9 +30,18 @@ CATALOGO_PELICULASD
 ├── env/
 ├── .gitignore
 └── Readme.md
+```
 
 ---
-```
+
+## 🧩 Funcionalidades
+
+- ✅ Crear, leer, actualizar y eliminar películas
+- 💻 Interfaz creada con `Tkinter`
+- 📂 Base de datos `SQLite` integrada (persistencia local)
+- 📦 Empaquetado como aplicación de escritorio ejecutable (.exe)
+---
+
 ## 🛠️ Tecnologías Utilizadas
 
 - **Python**
