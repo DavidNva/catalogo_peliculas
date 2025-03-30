@@ -2,7 +2,10 @@
 
 Aplicación de escritorio desarrollada con **Python**, usando **Tkinter** para la interfaz gráfica y **SQLite** como base de datos local.  
 Implementación un **CRUD completo**, interfaz grafica con **TKinter** y empaquetado con **PyInstaller** para su distribución.
+## 📄 App
+![image](https://github.com/user-attachments/assets/63ad0026-df2e-4959-bb75-f980f1a73f61)
 
+```
 ---
 
 ## 🧩 Funcionalidades
@@ -119,7 +122,4 @@ Puedes copiar esta carpeta a cualquier PC con Windows y ejecutar la app directam
 
 ---
 
-## 📄 App
-![image](https://github.com/user-attachments/assets/63ad0026-df2e-4959-bb75-f980f1a73f61)
 
-```
