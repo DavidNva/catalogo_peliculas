@@ -38,7 +38,7 @@ CATALOGO_PELICULASD
 └── Readme.md
 
 ---
-
+```
 ## 🛠️ Tecnologías Utilizadas
 
 - **Python**
@@ -120,10 +120,10 @@ Puedes copiar esta carpeta a cualquier PC con Windows y ejecutar la app directam
 ---
 
 ## 📄 App
+![image](https://github.com/user-attachments/assets/63ad0026-df2e-4959-bb75-f980f1a73f61)
 
 ```
 App Catálogo de Películas
-![image](https://github.com/user-attachments/assets/be72bf24-d555-4400-afcb-65b20fb7db83)
 
 ```
 
